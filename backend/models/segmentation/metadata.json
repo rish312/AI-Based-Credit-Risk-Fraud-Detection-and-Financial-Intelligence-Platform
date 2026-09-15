@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "feature_names": [
+        "recency_score",
+        "frequency_score",
+        "monetary_score",
+        "engagement_index",
+        "churn_risk_signal",
+        "estimated_clv",
+        "age",
+        "tenure_months"
+    ],
+    "n_clusters": 4,
+    "metrics": {
+        "best_k": 4,
+        "silhouette_score": 0.5864956823093059,
+        "surrogate_accuracy": 1.0
+    }
+}

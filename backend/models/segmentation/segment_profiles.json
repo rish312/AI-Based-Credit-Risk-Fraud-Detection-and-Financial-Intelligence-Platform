@@ -1,0 +1,54 @@
+{
+    "0": {
+        "name": "New Explorer",
+        "centroid": {
+            "recency_score": 0.4260384539321249,
+            "frequency_score": -0.25943063951781187,
+            "monetary_score": -0.8214740173570052,
+            "engagement_index": 0.07135131125418304,
+            "churn_risk_signal": -0.4989707334293411,
+            "estimated_clv": -0.7681480764960171,
+            "age": -0.7045806076159952,
+            "tenure_months": -0.8802118581793241
+        }
+    },
+    "1": {
+        "name": "At-Risk Churner",
+        "centroid": {
+            "recency_score": -2.6676460881300263,
+            "frequency_score": -1.1186929372280217,
+            "monetary_score": -1.003953752384023,
+            "engagement_index": -1.52234415752476,
+            "churn_risk_signal": 2.1946735609386243,
+            "estimated_clv": -0.8129660021432575,
+            "age": 1.3543348092718752,
+            "tenure_months": 1.3160772881659348
+        }
+    },
+    "2": {
+        "name": "Bargain Hunter",
+        "centroid": {
+            "recency_score": -0.5553750539066328,
+            "frequency_score": -0.6877817864496691,
+            "monetary_score": 0.789240749929791,
+            "engagement_index": -1.072034094228463,
+            "churn_risk_signal": 1.0330283098430992,
+            "estimated_clv": 0.5483311072931014,
+            "age": 0.182443291000409,
+            "tenure_months": 0.34283755892188533
+        }
+    },
+    "3": {
+        "name": "High-Value Loyalist",
+        "centroid": {
+            "recency_score": 0.7141832446960917,
+            "frequency_score": 1.489255690708862,
+            "monetary_score": 1.2523744283333917,
+            "engagement_index": 1.3550742429054055,
+            "churn_risk_signal": -0.793413936401348,
+            "estimated_clv": 1.2802620161932392,
+            "age": 0.62364211187233,
+            "tenure_months": 0.8296551088617605
+        }
+    }
+}

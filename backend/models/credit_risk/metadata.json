@@ -1,0 +1,28 @@
+{
+    "version": "1.0.0",
+    "trained_at": "2026-09-13T14:58:19.295230",
+    "metrics": {
+        "auc_roc": 0.6193397261132525,
+        "accuracy": 0.967,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "brier_score": 0.03166173965975177
+    },
+    "feature_names": [
+        "income",
+        "employment_years",
+        "existing_debt",
+        "credit_score",
+        "account_tenure_months",
+        "credit_limit",
+        "current_balance",
+        "num_open_accounts",
+        "recent_inquiries",
+        "debt_to_income_ratio",
+        "credit_utilization",
+        "credit_history_length_years",
+        "delinquency_rate",
+        "recent_delinquency_count"
+    ]
+}
